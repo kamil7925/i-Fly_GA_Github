@@ -98,3 +98,5 @@ Once the masterdata are prepared, For each post in the post universe:
 2.	Retrieve all the sales prices in the locations where the user can sell what he can buy in the current post.
 3.	For all the post existing in the list mentioned previously, create each transaction and add it to the final list.
 4.	Repeat the operation for every post in the post universe.
+
+If you have questions feel free to mail me at : kamil.marcilly@gmail.com
